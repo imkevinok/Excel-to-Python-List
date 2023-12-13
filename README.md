@@ -1,5 +1,6 @@
 STEPS:
 Upon opening the file
+
 1- Pip install pandas (and any other requirements if appear in terminal)
 
 2- Pick the column you want to extract from the Excel Sheet by the number index
